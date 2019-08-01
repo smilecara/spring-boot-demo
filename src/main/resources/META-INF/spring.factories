@@ -1,0 +1,4 @@
+# Application Listeners
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.example.demo.configuration.HelloworldConfiguration,\
+com.other.AutoHelloWorldConfiguration
